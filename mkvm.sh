@@ -5,7 +5,7 @@
 unset name
 unset octet
 
-domain="casacarlos.priv"
+domain="vms.priv"
 host="192.168.122.1"
 template_kickstart="/var/www/html/install/ks.cfg"
 
